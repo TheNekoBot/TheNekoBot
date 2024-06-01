@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @TheNekoBot
-- 👉 Answers and Queries, please reach out to @NekoCoaster
+- 👉 For any Answers and Queries, please reach out to [@NekoCoaster] (https://github.com/NekoCoaster)
